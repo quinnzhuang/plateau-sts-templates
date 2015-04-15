@@ -4,7 +4,7 @@
 		kind="template" 
 		local="false" 
 		name="Spring Mybatis Mysql" 
-		size="99330" 
+		size="99426" 
 		url="https://raw.githubusercontent.com/quinnzhuang/plateau-sts-templates/master/org.plateau.integration.sts.template.smm-1.0.0.zip" 
 		category="Integration" 
 		version="1.0.0">
