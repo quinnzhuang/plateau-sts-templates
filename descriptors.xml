@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <descriptors>
-	<descriptor id="org.plateau.integration.sts.template.smm" kind="template" local="false" name="Spring Mybatis Mysql" size="23033" url="https://raw.githubusercontent.com/quinnzhuang/plateau-sts-templates/master/org.plateau.integration.sts.template.smm-1.0.0.zip" category="Integration" version="1.0.0">
+	<descriptor id="org.plateau.integration.sts.template.smm" 
+		kind="template" 
+		local="false" 
+		name="Spring Mybatis Mysql" 
+		size="23813" 
+		url="https://raw.githubusercontent.com/quinnzhuang/plateau-sts-templates/master/org.plateau.integration.sts.template.smm-1.0.0.zip" 
+		category="Integration" 
+		version="1.0.0">
 		<description>
 			A new Spring MVC web application development project
 		</description>
